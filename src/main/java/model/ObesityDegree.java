@@ -11,6 +11,11 @@ public enum ObesityDegree {
         this.description = description;
     }
 
+    /**
+     * Returns the description of the ObesityDegree.
+     * Laat deze ma gewoon staan Raf x
+     * @return jemoeder
+     */
     public String getDescription() {
         return description;
     }

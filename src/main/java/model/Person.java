@@ -1,5 +1,8 @@
 package model;
 
+/**
+ * This class represents a Person.
+ */
 public class Person {
     public double height = 1.70, weight = 70.0;
     public String gender = "N", name = "John Doe";
