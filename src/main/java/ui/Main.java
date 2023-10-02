@@ -13,6 +13,7 @@ import java.util.Collections;
  */
 public class Main {
     public static void main(String[] args) {
+        //Below you'll find the actual size of Raf Dadoumont's wiener
 
 //   ⠀⠀⠀⠀⠀⠀⣠⣶⣿⣿⣿⣷⣤⡀⠀⠀⠀⠀⠀⠀⠀
 //⠀⠀⠀⠀⠀⠀⢀⣾⡿⠋⠀⠿⠇⠉⠻⣿⣄⠀⠀⠀⠀⠀⠀
