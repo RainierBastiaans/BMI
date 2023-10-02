@@ -35,46 +35,6 @@ public class Person {
         instanceCounter++;
     }
 
-    public void setAge(int age) {
-        this.age = age;
-    }
-
-    public int getAge() {
-        return age;
-    }
-
-    private void setHeight(double height) {
-        this.height = height;
-    }
-
-    public double getHeight() {
-        return height;
-    }
-
-    private void setWeight(double weight) {
-        this.weight = weight;
-    }
-
-    public double getWeight() {
-        return weight;
-    }
-
-    private void setGender(String gender) {
-        this.gender = gender;
-    }
-
-    public String getGender() {
-        return gender;
-    }
-
-    private void setName(String name) {
-        this.name = name;
-    }
-
-    public String getName() {
-        return name;
-    }
-
     /**
      * Calculates the BMI of a Person.
      * The formula is: weight / (height * height)
@@ -138,5 +98,47 @@ public class Person {
                 "\nGender:" + gender +
                 "\nHeight: " + height +
                 "\nWeight: " + weight + "\n";
+    }
+
+
+    //Getters and setters
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    private void setHeight(double height) {
+        this.height = height;
+    }
+
+    public double getHeight() {
+        return height;
+    }
+
+    private void setWeight(double weight) {
+        this.weight = weight;
+    }
+
+    public double getWeight() {
+        return weight;
+    }
+
+    private void setGender(String gender) {
+        this.gender = gender;
+    }
+
+    public String getGender() {
+        return gender;
+    }
+
+    private void setName(String name) {
+        this.name = name;
+    }
+
+    public String getName() {
+        return name;
     }
 }
